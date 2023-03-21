@@ -1,0 +1,20 @@
+{
+  "name": "architecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuristrelets/architecture.git"
+  },
+  "author": "Yurii Strilets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuristrelets/architecture/issues"
+  },
+  "homepage": "https://github.com/yuristrelets/architecture#readme"
+}
