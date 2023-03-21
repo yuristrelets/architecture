@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lab1": "ts-node ./src/lab1/index.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lab1": "ts-node ./src/lab1/index.ts"
   },
   "private": true,
   "repository": {
@@ -14,10 +13,6 @@
   },
   "author": "Yurii Strilets",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/yuristrelets/architecture/issues"
-  },
-  "homepage": "https://github.com/yuristrelets/architecture#readme",
   "devDependencies": {
     "@types/node": "^18.15.5",
     "prettier": "^2.8.6",
