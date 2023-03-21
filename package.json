@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/yuristrelets/architecture/issues"
   },
-  "homepage": "https://github.com/yuristrelets/architecture#readme"
+  "homepage": "https://github.com/yuristrelets/architecture#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  }
 }
