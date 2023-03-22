@@ -1,7 +1,7 @@
 import { PlacesIterator } from "./PlacesIterator";
 import { Collection } from "./types/Collection";
 
-export class PlacesCollection<T> implements Collection<T> {
+export class PlacesCollection<T extends string> implements Collection<T> {
   private items: T[] = [];
 
   public getItems() {

@@ -1,6 +1,6 @@
 import { PlacesCollection } from "./PlacesCollection";
 
-const collection = new PlacesCollection<string>();
+const collection = new PlacesCollection();
 collection.addItem("Kharkiv");
 collection.addItem("Poltava");
 collection.addItem("Kyiv");
