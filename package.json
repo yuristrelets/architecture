@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lab1": "ts-node ./src/lab1/index.ts"
+    "lab1": "ts-node ./src/lab1/index.ts",
+    "lab2": "ts-node ./src/lab2/index.ts"
   },
   "private": true,
   "repository": {
