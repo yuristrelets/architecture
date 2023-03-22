@@ -13,6 +13,7 @@ const phoneInput = new PhoneInput();
 const anotherRecipientCheckbox = new AnotherRecipientCheckbox();
 const selfPickupCheckbox = new SelfPickupCheckbox();
 
+// initial hidden state
 nameInput.setHidden(true);
 phoneInput.setHidden(true);
 // console output
