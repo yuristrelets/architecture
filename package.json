@@ -6,7 +6,8 @@
   "scripts": {
     "lab1": "ts-node ./src/lab1/index.ts",
     "lab2": "ts-node ./src/lab2/index.ts",
-    "lab3": "ts-node ./src/lab3/index.ts"
+    "lab3": "ts-node ./src/lab3/index.ts",
+    "lab4": "ts-node ./src/lab4/index.ts"
   },
   "private": true,
   "repository": {
