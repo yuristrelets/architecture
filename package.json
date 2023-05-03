@@ -9,7 +9,8 @@
     "lab3": "ts-node ./src/lab3/index.ts",
     "lab4": "ts-node ./src/lab4/index.ts",
     "lab5": "ts-node ./src/lab5/index.ts",
-    "lab6": "ts-node ./src/lab6/index.ts"
+    "lab6": "ts-node ./src/lab6/index.ts",
+    "lab7": "ts-node ./src/lab7/index.ts"
   },
   "private": true,
   "repository": {
