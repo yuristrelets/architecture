@@ -10,11 +10,11 @@ const mySqlQuery = mySqlQueryBuilder
 console.log(mySqlQuery);
 // Your MySQL query here
 
-const myPostgreQueryBuilder = new PostgreSQLQueryBuilder();
-const myPostgreQuery = myPostgreQueryBuilder
+const postgreQueryBuilder = new PostgreSQLQueryBuilder();
+const postgreQuery = postgreQueryBuilder
   .select("name")
   .where("id < 10")
   .limit(5)
   .getSQL();
-console.log(myPostgreQuery);
+console.log(postgreQuery);
 // Your PostgreSQL query here
